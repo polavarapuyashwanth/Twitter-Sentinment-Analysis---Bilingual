@@ -171,5 +171,3 @@ Text: *you are not accha*
 9) [Ensemble Classifier](https://towardsdatascience.com/advanced-ensemble-classifiers8d7372e74e40)
 10) [Confusion Matrix](https://www.geeksforgeeks.org/confusion-matrix-machine-learning/)
 
-## Contact
-For any comments or questions, please contact us at sakshidgoel@gmail.com / suhailrahman8999@gmail.com
