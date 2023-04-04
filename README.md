@@ -37,7 +37,7 @@ In order to make sure that the work was carried out in the most efficient manner
 5) The data cleaning process also included the removal of punctuations, numbers, special characters and user handles or tags (“@” symbol followed by the account handle). Stopwords, other than ‘not’ and the word ‘is’ were also removed from the text. 
 6) The cleaned tweet contained corrected spellings of all words, because of the use of the ‘SpellChecker’ package. All words with length equal to one were also removed. The cleaned tweets look like the following:
     
-<img src = "https://github.com/polavarapuyashwanth/Twitter-Sentinment-Analysis---Bilingual/tree/main/Output%20and%20graphs/After-Data-Cleaning.png" width="900">
+<img src = "https://github.com/polavarapuyashwanth/Twitter-Sentinment-Analysis---Bilingual/tree/main/Output and graphs/After-Data-Cleaning.png" width="900">
      
 7) Next, the words were lemmatized, and words preceded  by ‘not’ were substituted by their antonyms to represent the negation effect. 
 Finally, the dataset contained the cleaned tweets. The final dataset looks like the following:
